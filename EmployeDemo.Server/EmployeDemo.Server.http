@@ -1,0 +1,6 @@
+@EmployeDemo.Server_HostAddress = http://localhost:5289
+
+GET {{EmployeDemo.Server_HostAddress}}/task/
+Accept: application/json
+
+###
