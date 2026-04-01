@@ -63,3 +63,6 @@ If extended further, I would:
   
 👨‍💻 Author
 Developed by Haziq (MHA)
+
+<img width="891" height="941" alt="image" src="https://github.com/user-attachments/assets/f5306610-b9fe-448e-92f4-6fd473fa1c11" />
+
